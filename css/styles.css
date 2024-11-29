@@ -6,6 +6,10 @@ body{
   font-size: normal;
 }
 
+.bg-dark{
+    background-color: #232536;
+}
+
 .lato-light {
   font-family: "Lato", sans-serif;
   font-weight: 300;
@@ -24,6 +28,32 @@ body{
   font-style: normal;
 }
 
-.navcolor{
+.navbar{
+    padding: 0;
+}
+
+.navbar-nav .nav-link.active{
     color: white;
+    text-align: end;
   }
+
+.button_subscribe{
+    border-radius: 5px;
+    border: solid 1px white;
+    width: 152px;
+    height: 50px;
+    top: 14px;
+}
+
+.container-fluid.bg-dark{
+    width: 1280px;
+    height: 80px;
+}
+
+.layout{
+    background-image: url(../img/cotxe_1.jpeg);
+    width: 1280px;
+    height: 594px;
+    top: 80px;
+    background-color: rgba(0, 0, 0, 0.25);
+}
