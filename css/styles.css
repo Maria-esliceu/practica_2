@@ -1,36 +1,43 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700;900&family=Roboto:ital,wght@0,300;0,400;0,700;1,900&display=swap');
 
 body{
-  font-family: "Lato", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   font-size: normal;
 }
 
-.bg-dark{
+.bg-darkk{
     background-color: #232536;
 }
 
-.lato-light {
-  font-family: "Lato", sans-serif;
+.Poppins-light {
+  font-family: "Poppins", sans-serif;
   font-weight: 300;
   font-style: normal;
 }
 
-.lato-regular {
-  font-family: "Lato", sans-serif;
+.Poppins-regular {
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
-.lato-bold {
-  font-family: "Lato", sans-serif;
+.Poppins-bold {
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
+  font-style: normal;
+}
+
+.Poppins-exbold{
+    font-family: "Poppins", sans-serif;
+  font-weight: 900;
   font-style: normal;
 }
 
 .navbar{
     padding: 0;
 }
+
 
 .navbar-nav .nav-link.active{
     color: white;
@@ -45,15 +52,47 @@ body{
     top: 14px;
 }
 
-.container-fluid.bg-dark{
+.container-fluid.bg-darkk{
     width: 1280px;
     height: 80px;
 }
 
 .layout{
     background-image: url(../img/cotxe_1.jpeg);
-    width: 1280px;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.layout::after{
+    content: "";
+    position: absolute;
+    width: 1220px;
     height: 594px;
-    top: 80px;
+    padding-top: 80px;
+    padding-left: 0;
+    padding-right: 20px;
     background-color: rgba(0, 0, 0, 0.25);
+    height: 100vh;
+    z-index: 1;
+}
+
+.layout .h1.Poppins-exbold{
+    z-index: 2;
+    padding-left: 50px;
+    padding-top: 77px;
+    padding-bottom: 5px;
+    padding-right: 516px;
+}
+
+.layout .Poppins-light{
+    z-index: 2;
+    width: 600px;
+    height: 100px;
+    top: 447px;
+    padding-left: 50px;
+
 }
