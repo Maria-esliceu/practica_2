@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700;900&family=Roboto:ital,wght@0,300;0,400;0,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700;900&family=Roboto:ital,wght@0,300;0,400;0,700;1,900&display=swap');
 
 body{
   font-family: "Poppins", sans-serif;
@@ -8,6 +8,12 @@ body{
 
 .bg-darkk{
     background-color: #232536;
+}
+
+.Poppins-mini {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
 }
 
 .Poppins-light {
@@ -132,6 +138,10 @@ link{
 }
 
 .latest{
+  padding-left: 30px;
+}
+
+.img_latest{
   width: 626px;
   height: 369px;
   top: 868px;
