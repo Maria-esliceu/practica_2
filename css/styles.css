@@ -185,5 +185,21 @@ link{
   width: 1180px;
   height: 450.67px;
   top: 1673px;
-  margin-left: 51px;
+  margin-left: 50px;
+  border: solid black 5px;
+}
+
+.blok{
+  width: 248px;
+  height: 188.86px;
+  top: 69px;
+  left: 16px;
+  border-radius: 8px;
+}
+
+.bg-grey{
+  background-color: rgba(244, 240, 248, 1);
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
 }
