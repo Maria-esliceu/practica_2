@@ -124,12 +124,12 @@ body{
 }
 
 .margin{
-  width: 1180px;
+ width: 1180px;
   height: 830px;
   top: 785px;
   left: 50px;
   margin-top: 111px;
-  margin-left: 25px;
+  margin-left: 20px;
 }
 
 link{
@@ -157,6 +157,8 @@ link{
 
 .see{
   text-align: end;
+  text-decoration: none;
+  text-transform: none;
 }
 
 .lorem{
@@ -185,21 +187,73 @@ link{
   width: 1180px;
   height: 450.67px;
   top: 1673px;
+  margin-left: 20px;
+}
+
+.margin_h2{
   margin-left: 50px;
-  border: solid black 5px;
 }
 
 .blok{
-  width: 248px;
+  width: 240px;
   height: 188.86px;
   top: 69px;
   left: 16px;
   border-radius: 8px;
+  align-items: center;
 }
 
 .bg-grey{
   background-color: rgba(244, 240, 248, 1);
-  border-radius: 10px;
+  border-radius: 13px;
   padding: 10px;
-  text-align: center;
+  margin-right: 10px;
+  align-self: center;
+}
+
+.p{
+  margin-right: 100px;
+  width: 248px;
+  height: 69px;
+  margin-top: 20px;
+}
+
+.col-md-3 {
+  flex: 0 0 auto;
+  width: 23%;
+  margin-right: 10px;
+}
+
+.row{
+  margin-left: 50px;
+}
+
+.foto_creador{
+  width: 53px;
+  height: 53px;
+  top: 382px;
+  left: 16px;
+  border-radius: 50px;
+}
+
+.p_foto_creador1{
+  width: 65px;
+  height: 20px;
+  margin-bottom: 0;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+.p_foto_creador2{
+  width: 184px;
+  height: 21px;
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+.blok2{
+  width: 90px;
+  height: 90px;
+  top: 140px;
+  left: 144px;
 }
