@@ -279,13 +279,73 @@ link{
   width: 321.95px;
   height: 228px;
   margin-top: 75px;
-  margin-left: 153px;
+  margin-left: 133px;
+}
+
+.testimonials_2{
+  margin-left: 100px;
 }
 
 .foto_testi{
   border-radius: 40px;
   width: 44.25px;
   height: 48px;
-  margin-left: 637.19px;
+  margin-left: 100px;
   margin-top: 40px;
+}
+
+.text_foto{
+  font-size: 20px;
+  margin-top: 40px;
+  margin-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 10px ;
+}
+
+.text_foto_2{
+  font-size: 10px;
+  margin-top: 70px;
+  padding-top: 20px;
+  margin-left: -180px;
+}
+
+.text_foto_3{
+  font-size: 10px;
+  margin-top: 95px;
+  margin-left: -47px;
+  padding-top: 25px;
+}
+
+.arrow{
+  align-items: center;
+  text-align: center;
+  background-color: white;
+  color: black;
+  width: 48px;
+  height: 48px;
+  top: 2815px;
+  margin-left: 250px;
+  border-radius: 50px;
+  margin-top: 50px;
+}
+
+.svg{
+  margin-top: 12px;
+}
+
+.arrow_2{
+  align-items: center;
+  text-align: center;
+  background-color: #ff5959;
+  color: black;
+  width: 62px;
+  height: 62px;
+  top: 2938px;
+  margin-left: 10px;
+  border-radius: 50px;
+  margin-top: 50px;
+}
+
+.svg_2{
+  margin-top: 18px;
 }
