@@ -199,6 +199,15 @@ link{
   margin-left: 20px;
 }
 
+.all_cate{
+  width: 1180px;
+  height: 450.67px;
+  top: 1673px;
+  margin-top: 50px;
+  margin-left: 20px;
+  border-top: 1px solid #2325364D;
+}
+
 .margin_h2{
   margin-left: 50px;
   text-align: start;
@@ -271,8 +280,9 @@ link{
 
 .testimonials{
   width: 1280px;
-  height: 392px;
+  height: 380px;
   top: 2671px;
+  padding-right: 50px;
 }
 
 .testimonials_1{
@@ -280,6 +290,7 @@ link{
   height: 228px;
   margin-top: 75px;
   margin-left: 133px;
+  border-right: 1px solid #FBF6EA;
 }
 
 .testimonials_2{
@@ -349,3 +360,68 @@ link{
 .svg_2{
   margin-top: 18px;
 }
+
+.Technology{
+  width: 1180px;
+  height: 450.67px;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+
+.circle_2{
+  color: #FFD6D6;
+  margin-right: 10px;
+  width: 50px;
+  height: 50px;
+  top: 15px;
+  left: 50px;
+}
+
+.bg-blackk{
+  width: 1130px;
+  height: 235.73px;
+  top: 3830.58px;
+  margin-left: 60px;
+  background-color: #2A2B39;
+}
+
+.footer{
+  width: 502px;
+  height: 62.74px;
+  top: 3917.53px;
+  left: 89px;
+  margin-left: 40px;
+}
+
+.bg-whitte{
+  background-color: white;
+  color: #00000080;
+  width: 380px;
+  height: 60.05px;
+  top: 3919.32px;
+  left: 60px;
+  border-radius: 10px;
+  margin-left: 20px;
+  padding-top: 18px;
+  padding-left: 15px;
+}
+
+.b_footer{
+  width: 186px;
+  height: 60.05px;
+  top: 3919.32px;
+  left: 1003px;
+  margin-right: 40px;
+  margin-bottom: 15px;
+}
+
+.peu{
+  width: 361px;
+  height: 25.1px;
+  top: 4096.79px;
+  margin-left: 53px;
+  opacity: 70%;
+  margin-top: 20px;
+}
+
