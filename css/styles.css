@@ -86,7 +86,7 @@ body{
     z-index: 1;
 }
 
-.layout .h1{
+.h1{
     z-index: 2;
     padding-left: 50px;
     padding-top: 77px;
@@ -153,6 +153,11 @@ link{
   height: 369px;
   top: 868px;
   left: 77px;
+}
+
+.By_Jhon{
+  font-size: 12px;
+  margin-top: 10px;
 }
 
 .see{
@@ -433,3 +438,76 @@ link{
 .text-end{
   margin-left: 720px;
 }
+
+/** BLOG **/
+
+.blog{
+  background-color: #31323C;
+  width: 1228px;
+  height: 541px;
+  top: 80px;
+  color: white;
+}
+
+.blog .Poppins-light{
+  z-index: 2;
+  width: 600px;
+  height: 100px;
+  top: 447px;
+  padding-left: 50px;
+}
+
+.img_b{
+  z-index: 1;
+  width: 180px;
+  height: 272px;
+  margin-top: -500px;
+  margin-left: 400px;
+}
+
+.img_b2{
+  z-index: 2;
+  width: 180px;
+  height: 350px;
+  margin-top: -490px;
+  margin-left: -320px;
+}
+
+.img_b3{
+  z-index: 1;
+  width: 186px;
+  height: 350px;
+  padding-top: 75px;
+  margin-top: -200px;
+  margin-left: -80px;
+}
+
+.img_b4{
+ width: 200px;
+ height: 357px;
+ margin-top: -280px;
+ margin-left: 20px; 
+}
+
+.All_posts{
+  color: #232536;
+  width: 1142px;
+  height: 99px;
+  top: 676px;
+  margin-top: 30px;
+  margin-left: 40px;
+  border-bottom: 1px solid #6D6E76;
+}
+
+.section_blog{
+  width: 1160px;
+  height: 350px;
+  margin-top: 40px;
+  margin-left: -20px;
+}
+
+.img_b_a{
+  width: 480px;
+  height: 350px;
+}
+
