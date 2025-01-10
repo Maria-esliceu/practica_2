@@ -511,3 +511,18 @@ link{
   height: 350px;
 }
 
+.div_blog{
+  margin-left: 150px;
+}
+
+.button_blog{
+  color: white;
+  font-weight: bold;
+  background-color: #FF5959;
+  width: 192px;
+  height: 38px;
+  left: 77px;
+  border-radius: 5px;
+  border: solid #FF5959;
+  font-size: 14px;
+}
