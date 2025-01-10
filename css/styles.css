@@ -40,6 +40,8 @@ body{
   font-style: normal;
 }
 
+/**ÍNDEX**/
+
 .navbar{
     padding: 0;
 }
@@ -531,6 +533,8 @@ link{
   margin-bottom: 150px;
 }
 
+/**SINGEL**/
+
 .img_singel{
   width: 1130px;
   height: 586px;
@@ -539,5 +543,49 @@ link{
 }
 
 .h1_single{
-  
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.perfil_singel{
+  margin-left: 50px;
+  margin-top: 5px;
+}
+
+.p_foto_creador1_s{
+  width: 65px;
+  height: 20px;
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+
+.p_foto_creador2_s{
+  width: 184px;
+  height: 21px;
+  font-size: 13px;
+  margin-left: 30px;
+  margin-top: 22px;
+}
+
+.lorem_singel{
+  width: 971px;
+  height: 500px;
+  top: 910px;
+  margin-left: 159px;
+}
+
+.lorem_color{
+  color: #232536;
+}
+
+.div_singel{
+  font-size: 12px;
+}
+
+.li_singel{
+  margin-left: -15px;
+}
+
+.color{
+  color: #161722;
 }
