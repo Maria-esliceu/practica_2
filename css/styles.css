@@ -588,3 +588,17 @@ link{
   height: 400px;
   top: 80px;
 }
+
+.form{
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.form-control{
+  width: 700px;
+}
+
+.height{
+  width: 1000px;
+  height: 200px;
+}
